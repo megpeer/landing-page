@@ -137,7 +137,7 @@ p{
     height: auto;
     display: flex;
     justify-content: center;
-    padding: 40px;
+
 }
 .quote-container {
     font-size: 36px; 
@@ -163,9 +163,8 @@ p{
     border-radius: 5px;
     margin: 50px;
     padding: 40px 100px;
-    
     display: flex;
-    align-items: center;
+    justify-content: center;
     gap: 100px;
 }
 .cta {
